@@ -12,7 +12,7 @@ return_to:
 functional_areas:
   - Integration
 contributor_name: comwrap GmbH
-contributor_link: http://comwrap.com/
+contributor_link: https://comwrap.com//
 ---
 
 By providing configurable and simple product information, you can use the bulk API to create all necessary products with a single call.
